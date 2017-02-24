@@ -226,12 +226,12 @@ section {
         font-size: 40px;
         margin-top: 0;
         margin-bottom: 15px;
+
     }
     h3.section-subheading {
         font-size: 46px;
         @include serif-font;
         text-transform: none;
-
         font-weight: 400;
         margin-bottom: 75px;
     }
@@ -297,7 +297,7 @@ section {
         .portfolio-caption {
             max-width: 400px;
             margin: 0 auto;
-            background-color: white;
+            background-color: #e0bb28;
             text-align: center;
             padding: 10px;
             h4 {
