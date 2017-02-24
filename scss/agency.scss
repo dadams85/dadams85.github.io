@@ -9,7 +9,7 @@ body {
 }
 
 .text-muted {
-    color: $gray-light;
+    color: #fed136;
 }
 
 .text-primary {
@@ -228,10 +228,10 @@ section {
         margin-bottom: 15px;
     }
     h3.section-subheading {
-        font-size: 16px;
+        font-size: 46px;
         @include serif-font;
         text-transform: none;
-        font-style: italic;
+
         font-weight: 400;
         margin-bottom: 75px;
     }
